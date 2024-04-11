@@ -70,11 +70,13 @@ Here are some ideas to get you started:
   <img align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
     <br/>
     <br/>
+  <div align="center">
    <a href="https://www.linkedin.com/in/abhishek-jat-060886233/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:abhishekjat80094@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/Abhishek5602593"><img title="twitter" src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/abhishek_jat_09/" rel="nofollow"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
+    </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
@@ -123,13 +125,14 @@ Here are some ideas to get you started:
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">GitHub Stats:</h3 >
-<table width="100">
+<table align="center">
   <tr>
    
 <td><img src="https://github-readme-stats.vercel.app/api?username=88abhi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Abhishek Jat" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=88abhi&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Abhishek Jat" /></td>
   </tr>
 </table>
+<br/>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=88abhi&theme=dark" alt="Abhishek Jat" /></p>
