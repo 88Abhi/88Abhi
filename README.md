@@ -119,9 +119,9 @@ Here are some ideas to get you started:
   <h3 align="left">Coding Profiles: </h3>
   <br/>
 <p align="left">
-<a  href="https://www.leetcode.com/https://leetcode.com/abhishekjat80094/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhishekjat80094/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/abhishekjat09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhishekjat09" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/https://www.codechef.com/users/abhishek880" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhishek880" height="30" width="40" /></a>
+<a  href="https://leetcode.com/abhishekjat80094/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhishekjat80094/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/abhishekjat09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhishekjat09" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/abhishek880" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhishek880" height="30" width="40" /></a>
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">GitHub Stats:</h3 >
