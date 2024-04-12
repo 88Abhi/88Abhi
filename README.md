@@ -86,47 +86,45 @@ Here are some ideas to get you started:
 <hr/>
 <table align="center">
   <tr>
-<td>
-<h3 align="left"> 💼 Tech Stack: <h3/>
-<img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
-<img alt="Github" src="https://img.shields.io/badge/github%20-%23F05033.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <br/>
-<img alt="Java" src="https://img.shields.io/badge/java%20-%2300599C.svg?&style=for-the-badge&logo=java%2B%2B&ogoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<br/>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="47" height="50" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="50" />
-<a href="https://skillicons.dev">
-<img width="80" src="https://skillicons.dev/icons?i=github,vscode" />
-</a>
-<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="40" height="50" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="50" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="37" height="50" />
-<td/>
     <td>
-    <img alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-    <td/>
+      <h3 align="left"> 💼 Tech Stack: </h3>
+      <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
+      <img alt="Github" src="https://img.shields.io/badge/github%20-%23F05033.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+      <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <br/>
+      <img alt="Java" src="https://img.shields.io/badge/java%20-%2300599C.svg?&style=for-the-badge&logo=java%2B%2B&ogoColor=white"/>
+      <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+      <br/>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="47" height="50" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="50" />
+      <a href="https://skillicons.dev">
+        <img width="80" src="https://skillicons.dev/icons?i=github,vscode" />
+      </a>
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="40" height="50" />
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="50" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="37" height="50" />
+    </td>
     <td>
-    <h3>👩‍💻 Coding Profiles </h3>  
-      
-<a  href="https://leetcode.com/abhishekjat80094/">Leetcode</a>
-<br/>
-<br/>
-<a  href="https://auth.geeksforgeeks.org/user/abhishekjat09">GFG</a>
-    <br/> 
-    <br/> 
-<a  href="https://www.codechef.com/users/abhishek880">Codechef</a>
-<td/>
+      <img alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+    </td>
+    <td>
+      <h3>👩‍💻 Coding Profiles</h3>  
+      <a href="https://leetcode.com/abhishekjat80094/">Leetcode</a>
+      <br/>
+      <a href="https://auth.geeksforgeeks.org/user/abhishekjat09">GFG</a>
+      <br/>
+      <a href="https://www.codechef.com/users/abhishek880">Codechef</a>
+    </td>
+  </tr>
+</table>
 
 <!-- <a  href="https://leetcode.com/abhishekjat80094/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhishekjat80094/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhishekjat09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhishekjat09" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/abhishek880" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhishek880" height="30" width="40" color="white" /></a>
 </p> -->
-  </tr>
-</table>
+
 <hr/>
 
 <h3 align="left">GitHub Stats:</h3 >
