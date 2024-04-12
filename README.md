@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 -->
 
-<img align="left" height="210" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="left" height="205" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 
@@ -74,6 +74,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/abhishek_jat_09/" rel="nofollow"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
     </div> <hr/>
+    
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Full Stack Development and DSA**
@@ -96,14 +97,14 @@ Here are some ideas to get you started:
 <img alt="Java" src="https://img.shields.io/badge/java%20-%2300599C.svg?&style=for-the-badge&logo=java%2B%2B&ogoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <br/>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="50" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="47" height="50" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="50" />
 <a href="https://skillicons.dev">
 <img width="80" src="https://skillicons.dev/icons?i=github,vscode" />
 </a>
 <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="40" height="50" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="50" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="50" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="37" height="50" />
 <td/>
     <td>
     <img alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
