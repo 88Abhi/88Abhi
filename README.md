@@ -75,7 +75,6 @@ Here are some ideas to get you started:
 </p>
     </div>
 <hr/>
-
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Full Stack Development and DSA**
