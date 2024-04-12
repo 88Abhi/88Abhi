@@ -73,8 +73,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/Abhishek5602593"><img title="twitter" src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/abhishek_jat_09/" rel="nofollow"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
-    </div>
-<hr/>
+    </div> <hr/>
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Full Stack Development and DSA**
