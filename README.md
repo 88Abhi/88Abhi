@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <hr/>
 <table align="center">
   <tr>
-    <td>
+    <td style="padding-left: 20px;">
       <h3 align="left"> 💼 Tech Stack: </h3>
       <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
       <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="50"/>
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="37" height="50"/>
     </td>
-    <td style="padding-left: 20px;, padding-right: 20px;">
+    <td style="padding-left: 20px;">
       <img alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
     </td>
     <td style="padding-left: 30px;">
