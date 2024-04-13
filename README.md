@@ -129,15 +129,17 @@ Here are some ideas to get you started:
 <h3 align="left">GitHub Stats:</h3 >
 <table align="center">
   <tr>
-   
-<td><img src="https://github-readme-stats.vercel.app/api?username=88abhi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Abhishek Jat" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=88abhi&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Abhishek Jat" /></td>
+    <td>
+      <a href="https://github.com/88abhi/github-readme-stats"> <img width="max-width" height="max-height" src="https://github-readme-stats.vercel.app/api?username=88abhi&hide_border=true&rank_icon=github&show_icons=true&count_private=true&show=prs_merged,prs_merged_percentage&theme=dark" alt="Abhishek's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/88abhi/github-readme-stats"> <img width="max-width" height="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=88abhi&hide_border=true&langs_count=10&layout=donut-vertical&count_private=true&theme=dark" alt="Top Languages" /> </a>
+    </td>
   </tr>
 </table>
 <br/>
-
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=88abhi&theme=dark" alt="Abhishek Jat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=88abhi&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="Abhishek Jat" /></p>
   </div>
 <hr/>
 <h3 align="left">Activity:</h3>
