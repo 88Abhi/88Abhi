@@ -58,12 +58,10 @@ Here are some ideas to get you started:
 
 -->
 
-<img align="left" height="195" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<img align="right"  height="195"  src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-
+<img align="left" height="170" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="right"  height="170"  src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi 👋!;I'm+Abhishek+Jat!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img  src="https://readme-typing-svg.demolab.com/?lines=Hi 👋!;I'm+Abhishek+Jat!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <h3 align="center">A Passionate Frontend Developer</h3>
 <p align="center">
@@ -73,7 +71,8 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/Abhishek5602593"><img title="twitter" src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/abhishek_jat_09/" rel="nofollow"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
-    </div> <hr/>
+</div> 
+ <hr/>
     
 - 🔭 I’m currently working on **React**
 
