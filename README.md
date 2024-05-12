@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img  src="https://readme-typing-svg.demolab.com/?lines=Hi 👋!;I'm+Abhishek+Jat!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Web Developer & Problem Solver</h3>
 <p align="center">
   <div align="center">
    <a href="https://www.linkedin.com/in/abhishek-jat-060886233/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
