@@ -74,9 +74,9 @@ Here are some ideas to get you started:
 </div> 
  <hr/>
     
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Full Stack Development and DSA**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **C++, Java, Javascript, DSA**
 
