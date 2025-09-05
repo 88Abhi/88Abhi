@@ -61,7 +61,8 @@ Here are some ideas to get you started:
 <img align="left" height="170" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right"  height="170"  src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <p align="center">
-  <img  src="https://readme-typing-svg.demolab.com/?lines=Hi 👋!;I'm+Abhishek+Jat!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+<!--   <img  src="https://readme-typing-svg.demolab.com/?lines=Hi 👋!;I'm+Abhishek+Jat!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"> -->
+Hi 👋!;I'm+Abhishek+Jat!
 </p>
 <h3 align="center">A Passionate Web Developer & Problem Solver</h3>
 <p align="center">
